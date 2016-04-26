@@ -1,2 +1,2 @@
 # PlataformaEventos_Web
-Trainee Struct UnB
+<p style = "color:red">Trainee Struct UnB</p>
